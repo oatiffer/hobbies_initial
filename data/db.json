@@ -1,0 +1,25 @@
+{
+    "0d442bb0-d531-4f92-aa43-050078c308e9": {
+        "first_name": "Omar",
+        "last_name": "Tiffer",
+        "hobbies": {
+            "soccer": "Soccer"
+        }
+    },
+    "e2af27d8-89e6-49dd-b518-a342c84f9bde": {
+        "first_name": "Sofia",
+        "last_name": "Tiffer",
+        "hobbies": {
+            "soccer": "Soccer",
+            "js": "JavaScript"
+        }
+    },
+    "7b575294-6ddf-43cc-acb2-87a158dd9f75": {
+        "first_name": "Axel",
+        "last_name": "Tiffer",
+        "hobbies": {
+            "soccer": "Soccer",
+            "js": "JavaScript"
+        }
+    }
+}
